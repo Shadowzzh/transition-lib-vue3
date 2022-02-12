@@ -12,7 +12,7 @@ vue3的一个“过渡组件”库
 </expand-transtion>
 ```
 ### 效果
-![效果](/src/resource/expand-transition.gif)
+![效果](./src//resource/expand-transition.gif)
 
 ---
 
@@ -29,4 +29,4 @@ vue3的一个“过渡组件”库
 </interlace-transition>
 ```
 ### 效果
-![效果](/src/resource/interlace-transition.gif)
+![效果](./src/resource/interlace-transition.gif)
